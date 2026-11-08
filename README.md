@@ -2,8 +2,8 @@
 
 # Kai Morales
 
-Applied AI Intern at Tesla
+Intern @ Tesla
 
-Interested in AI eng, evals, and optimization.
+I'm interested in AI eng, evals, and open source models.
 
-[projects](https://kmurakami.com/projects.html) · [experience](https://kmurakami.com/experience.html) · [about](https://kmurakami.com/about.html) · [contact](https://kmurakami.com/contact.html) · [game](https://kmurakami.com/driving-school.html)
+[experience](https://kmurakami.com/#/experience) · [projects](https://kmurakami.com/#/projects) · [about](https://kmurakami.com/#/about)
